@@ -1,0 +1,11 @@
+# Здесь будут зависимости для Вашего проекта
+py~=1.10.0
+colorama~=0.4.4
+pip~=21.2.1
+attrs~=21.2.0
+toml~=0.10.2
+setuptools~=57.4.0
+pluggy~=0.13.1
+pyparsing~=2.4.7
+jsonschema~=3.2.0
+SQLAlchemy~=1.4.22
